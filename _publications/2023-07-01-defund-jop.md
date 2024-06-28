@@ -4,7 +4,7 @@ title: "Defund My Police? The Effect of George Floyd’s Murder on Support for L
 collection: publications
 date: 2023-07-01
 venue: 'Journal of Politics'
-paperurl: 'https://doi.org/10.1093/poq/nfae011'
+paperurl: 'https://www.journals.uchicago.edu/doi/full/10.1086/723979'
 citation: 'Sances, Michael W. 2023. &quot;Defund My Police? The Effect of George Floyd’s Murder on Support for Local Police Budgets.&quot; <i>Journal of Politics</i> 85(3): 1156–1160.'
 ---
 
