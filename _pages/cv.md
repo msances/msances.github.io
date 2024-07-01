@@ -9,42 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
+Academic Positions
+======
+* Temple University, Philadelphia, PA
+	* Associate Professor, Department of Political Science, July 2022 -- present
+	* Assistant Professor, Department of Political Science, July 2019 -- June 2022
+
+* University of Memphis, Memphis, TN
+	* Assistant Professor, Department of Political Science, August 2015 -- July 2019
+
+* Vanderbilt University, Nashville, TN
+	* Postdoctoral Fellow, Center for the Study of Democratic Institutions, August 2014 -- August 2015
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D., Political Science, Massachusetts Institute of Technology, 2014
+* B.A., Political Science, University of Massachusetts, 2006
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-publication-cv.html %}
   {% endfor %}</ul>
   
 Talks
@@ -59,6 +44,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
