@@ -1,0 +1,22 @@
+---
+layout: archive
+title: "Writing"
+permalink: /writing/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign postsByYear =
+    site.writings | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear reversed %}
+  <h3>{{ year.name }}</h3>
+      {% for post in year.items reversed %}
+        {% if post.status != "workingpaper" %}
+          {% unless post.forthcoming %}
+            {% include archive-single.html %}
+          {% endunless %}
+        {% endif %}
+      {% endfor %}
+{% endfor %}
+

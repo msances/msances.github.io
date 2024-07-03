@@ -4,6 +4,7 @@ title: "Legitimate Questions: Public Perceptions of the Legitimacy of US Preside
 collection: publications
 date: 2023-10-01
 venue: 'Research and Politics'
+volume: '10(4): 1–8'
 paperurl: 'https://doi.org/10.1177/20531680231206987'
 citation: 'Sances, Michael W. 2023. &quot;Legitimate Questions: Public Perceptions of the Legitimacy of US Presidential Election Outcomes.&quot; <i>Research and Politics</i> 10(4): 1–8.'
 ---

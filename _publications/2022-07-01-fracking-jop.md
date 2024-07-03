@@ -4,7 +4,9 @@ title: "Voters and Donors: Unequal Political Consequences of Fracking"
 collection: publications
 date: 2022-07-01
 venue: 'Journal of Politics'
+volume: '84(3): 1667-1682'
 paperurl: 'https://www.journals.uchicago.edu/doi/10.1086/717084'
+coauthors: 'Hye Young You'
 citation: 'Sances, Michael W., and Hye Young You 2022. &quot;Voters and Donors: Unequal Political Consequences of Fracking.&quot; <i>Journal of Politics</i> 84(3): 1667-1682.'
 ---
 

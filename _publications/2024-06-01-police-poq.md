@@ -5,6 +5,7 @@ collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 date: 2024-06-01
 venue: 'Public Opinion Quarterly'
+volume: '88(2): 431–441'
 paperurl: 'https://doi.org/10.1093/poq/nfae011'
 citation: 'Sances, Michael W. 2024. &quot;Attitudes Toward Police and Police Spending.&quot; <i>Public Opinion Quarterly</i> 88(2): 431–441.'
 ---

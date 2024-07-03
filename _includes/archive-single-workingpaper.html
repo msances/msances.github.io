@@ -31,22 +31,14 @@
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         {% if post.coauthors %}
-          <a href="{{ post.paperurl }}" rel="permalink">{{ title | strip }}</a>. With {{ post.coauthors }}. <i>{{ post.venue }}</i> {{ post.volume }}. {{ post.date | default: "1900-01-01" | date: "%B %Y" }}. 
+          <a href="{{ post.paperurl }}">{{ title | strip}}</a>. With {{ post.coauthors }}. {{ post.date | default: "1900-01-01" | date: "%B %Y" }}.
         {% else %}
-          <a href="{{ post.paperurl }}" rel="permalink">{{ title | strip }}</a>. <i>{{ post.venue }}</i> {{ post.volume }}. {{ post.date | default: "1900-01-01" | date: "%B %Y" }}. 
+          <a href="{{ post.paperurl }}">{{ title | strip}}</a>. {{ post.date | default: "1900-01-01" | date: "%B %Y" }}.
         {% endif %}
-        {% if post.media %}
-	  <ul><li>Media coverage:
-	  {% for item in post.media %}
-	     <a href="{{ item[1].link }}">{{ item[1].name }}</a>
-	  {% endfor %}
-	  </li></ul>
-	{% endif %}
       {% endif %}
     </p>
     
     {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
         {% if post.collection == 'teaching' %}
@@ -63,7 +55,6 @@
     {% elsif post.citation and post.slidesurl %}
     {% elsif post.citation %}
     {% elsif post.paperurl %}
-      <p></p>
     {% elsif post.slidesurl %}
       <p>Download <a href="{{ post.slidesurl }}">Download Slides</a></p></p>
     {% endif %}

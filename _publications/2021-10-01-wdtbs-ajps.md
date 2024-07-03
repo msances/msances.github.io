@@ -4,6 +4,7 @@ title: "Presidential Approval and the Inherited Economy"
 collection: publications
 date: 2021-10-01
 venue: 'American Journal of Political Science'
+volume: '65(4): 938-953'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1111/ajps.12588'
 citation: 'Sances, Michael W. 2021. &quot;Presidential Approval and the Inherited Economy.&quot; <i>American Journal of Political Science</i> 65(4): 938-953.'
 ---

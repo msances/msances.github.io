@@ -4,7 +4,9 @@ title: "State Policy and Mental Health Outcomes under COVID-19"
 collection: publications
 date: 2021-10-01
 venue: 'Journal of Health Politics, Policy, and Law'
+volume: '46(5): 811-830'
 paperurl: 'https://doi.org/10.1215/03616878-9155991'
+coauthors: 'Andrea L. Campbell'
 citation: 'Sances, Michael W., and Andrea L. Campbell. 2021. &quot;State Policy and Mental Health Outcomes under COVID-19.&quot; <i>Journal of Health Politics, Policy, and Law</i> 46(5): 811-830.'
 ---
 
