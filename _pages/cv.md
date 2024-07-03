@@ -26,18 +26,38 @@ Education
 * Ph.D., Political Science, Massachusetts Institute of Technology, 2014
 * B.A., Political Science, University of Massachusetts, 2006
 
-Publications
+Peer-Reviewed Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-publication-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+  {% for post in site.publications reversed %}
+    {% unless post.status %}
+      {% include archive-single-publication-cv.html %}
+    {% endunless %}
+  {% endfor %}
+
+Working Papers
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+{% for post in site.publications reversed %}
+  {% if post.status == "workingpaper" %}
+    {% include archive-single-workingpaper.html %}
+  {% endif %}
+{% endfor %}
+
+Other Publications
+======
+  {% for post in site.publications reversed %}
+    {% if post.status %}
+      {% unless post.status == "workingpaper" %}
+        {% include archive-single-otherpublication-cv.html %}
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+
+Policy Reports, Opinion Pieces, and Blog Posts
+======
+  {% for post in site.writings reversed %}
+    {% include archive-single-otherpublication-cv.html %}
+  {% endfor %}
+      
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
