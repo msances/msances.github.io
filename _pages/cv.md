@@ -4,21 +4,13 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+title: CV
 ---
 
 {% include base_path %}
 
 <div class="download"><a href="/files/cv.pdf">(Download as PDF)</a></div>
 
-<div style="text-align: center;font-weight:bold;"><h1>Michael W. Sances</h1></div>
-<div style="text-align: center;"><h2 style="font-weight:normal;">Curriculum Vitae</h2></div>
-
-464 Gladfelter Hall\
-1115 Polett Walk\
-Philadelphia, PA 19122\
-215-204-7796\
-[msances@temple.edu](mailto:msances@temple.edu)\
-[http://sites.temple.edu/msances](http://sites.temple.edu/msances)
 
 Academic Positions
 ======
