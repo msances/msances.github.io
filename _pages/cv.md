@@ -10,7 +10,7 @@ title: CV
 {% include base_path %}
 
 <div class="download"><a href="/files/cv.pdf">(Download as PDF)</a></div>
-
+<p></p>
 
 Academic Positions
 ======
