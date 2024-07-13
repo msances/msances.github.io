@@ -22,17 +22,17 @@ repository               : "msances.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Michael W. Sances"
+  name             : #"Michael W. Sances"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor of Political Science at Temple University"
+  bio              : #"Associate Professor of Political Science at Temple University"
   location         : #"Philadelphia, PA"
   employer         : #"Temple University"
   uri              : #"https://www.temple.edu"
-  email            : "msances@temple.edu" 
+  email            : #"msances@temple.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=ujcGvMUAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=ujcGvMUAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
