@@ -297,46 +297,48 @@ Professional Service
 
 Departmental and University Service
 ======
-• Temple University
+* Temple University
 
-• Political Science Graduate Chair, 2024–
+	* Political Science Graduate Chair, 2024–
 
-• Dissertation Committee Member, Daniel Confalone, 2024–
+	* Dissertation Committee Member, Daniel Confalone, 2024–
 
-• Public Policy Lab Advisory Board, 2022–
+	* Public Policy Lab Advisory Board, 2022–
 
-• American Politics Field Chair, 2022–
+	* American Politics Field Chair, 2022–
+	
+	* Faculty Senate, 2022-
 
-• Department Contracts and Tenure Committee, Fall 2022.
+	* Department Contracts and Tenure Committee, Fall 2022.
 
-• American Politics Comprehensive Exam Committee, Fall 2021.
+	* American Politics Comprehensive Exam Committee, Fall 2021.
 
-• American Politics Faculty Search Committee, 2021.
+	* American Politics Faculty Search Committee, 2021.
 
-• Masters of Public Policy Advisory Committee, 2020.
+	* Masters of Public Policy Advisory Committee, 2020.
 
-• Merit Committee, Department of Political Science, 2020.
+	* Merit Committee, Department of Political Science, 2020.
 
-• Master's Thesis Committee Member: Megan Beckwith (University of Memphis), 2019–2020.
+	* Master's Thesis Committee Member: Megan Beckwith (University of Memphis), 2019–2020.
 
-• University of Memphis
+* University of Memphis
 
-• Master's Thesis Committee Chair: Emily Fulmer, 2018–2019.
+	* Master's Thesis Committee Chair: Emily Fulmer, 2018–2019.
 
-• American Politics Faculty Search Committee, 2018.
+	* American Politics Faculty Search Committee, 2018.
 
-• Public Policy Faculty Search Committee, 2018.
+	* Public Policy Faculty Search Committee, 2018.
 
-• Political Theory Faculty Search Committee, 2017.
+	* Political Theory Faculty Search Committee, 2017.
 
-• Faculty Senate, 2017–2019.
+	* Faculty Senate, 2017–2019.
 
-• Coordinator of Graduate Recruitment, 2016–2017.
+	* Coordinator of Graduate Recruitment, 2016–2017.
 
-• Faculty Evaluator, Undergraduate Works in Progress Symposium, 2016.
+	* Faculty Evaluator, Undergraduate Works in Progress Symposium, 2016.
 
-• Comparative Politics Faculty Search Committee, 2016.
+	* Comparative Politics Faculty Search Committee, 2016.
 
-• School of Urban Affairs and Public Policy PhD Program Committee, 2015–2016.
+	* School of Urban Affairs and Public Policy PhD Program Committee, 2015–2016.
 
-• Master's Thesis Committee Member: Brooke Shannon, 2015–2016.
+	* Master's Thesis Committee Member: Brooke Shannon, 2015–2016.
