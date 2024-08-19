@@ -155,121 +155,121 @@ Conference and Seminar Presentations
 ======
 • 2024
 
-• Midwestern Political Science Association
+	• Midwestern Political Science Association
 
 • 2023
 
-• American Political Science Association
+	• American Political Science Association
 
-• Midwestern Political Science Association
+	• Midwestern Political Science Association
 
-• Election Science, Reform, & Administration Conference
+	• Election Science, Reform, & Administration Conference
 
 • 2022
 
-• American Political Science Association
+	• American Political Science Association
 
-• Midwestern Political Science Association
+	• Midwestern Political Science Association
 
 • 2021
 
-• “Local Government Symposium: Improving Effectiveness and Efficiency in PA Local Government in a Post-COVID World.” Local Government Commission of the Pennsylvania General Assembly, October 21, 2021 (virtual)
+	• “Local Government Symposium: Improving Effectiveness and Efficiency in PA Local Government in a Post-COVID World.” Local Government Commission of the Pennsylvania General Assembly, October 21, 2021 (virtual)
 
-• University of California, Berkeley Research Workshop in American Politics (virtual)
+	• University of California, Berkeley Research Workshop in American Politics (virtual)
 
-• Columbia University American Politics Speaker Series (virtual)
+	• Columbia University American Politics Speaker Series (virtual)
 
-• Political Institutions and Political Economy (PIPE) Collaborative Local Political Economy Symposium, University of Southern California (virtual)
+	• Political Institutions and Political Economy (PIPE) Collaborative Local Political Economy Symposium, University of Southern California (virtual)
 
 • 2020
 
-• International City/County Management Association (ICMA) Unite Conference (virtual)
+	• International City/County Management Association (ICMA) Unite Conference (virtual)
 
-• University of Pennsylvania American Politics Seminar (virtual)
+	• University of Pennsylvania American Politics Seminar (virtual)
 
-• American Political Science Association
+	• American Political Science Association
 
-• Southern Political Science Association
+	• Southern Political Science Association
 
 • 2019
 
-• Yale University American Politics & Public Policy Workshop
+	• Yale University American Politics & Public Policy Workshop
 
-• American Political Science Association
+	• American Political Science Association
 
-• St. Louis Area Methods Meeting (SLAMM!)
+	• St. Louis Area Methods Meeting (SLAMM!)
 
-• Midwestern Political Science Association
+	• Midwestern Political Science Association
 
-• University of Copenhagen
+	• University of Copenhagen
 
-• Aarhus University
+	• Aarhus University
 
 • 2018
 
-• MIT American Politics Conference
+	• MIT American Politics Conference
 
-• Midwestern Political Science Association
+	• Midwestern Political Science Association
 
-• First Annual Political Institutions and Political Economy (PIPE) Conference, University of Southern California
+	• First Annual Political Institutions and Political Economy (PIPE) Conference, University of Southern California
 
-• Journal of Health Politics, Policy and Law Special Issue on Health and Political Participation Conference
+	• Journal of Health Politics, Policy and Law Special Issue on Health and Political Participation Conference
 
 • 2017
 
-• Russell Sage Foundation/Robert Wood Johnson Foundation Conference on the Effects of the Affordable Care Act
+	• Russell Sage Foundation/Robert Wood Johnson Foundation Conference on the Effects of the Affordable Care Act
 
-• American Political Science Association
+	• American Political Science Association
 
-• University of California Berkeley Local Political Economy Conference
+	• University of California Berkeley Local Political Economy Conference
 
-• State Politics and Policy Conference
+	• State Politics and Policy Conference
 
-• Midwestern Political Science Association
+	• Midwestern Political Science Association
 
-• Vanderbilt University Urban Political Economy Conference
+	• Vanderbilt University Urban Political Economy Conference
 
-• Southern Political Science Association
+	• Southern Political Science Association
 
 • 2016
 
-• American Political Science Association
+	• American Political Science Association
 
-• Midwestern Political Science Association
+	• Midwestern Political Science Association
 
-• Southern Political Science Association
+	• Southern Political Science Association
 
 • 2014
 
-• Vanderbilt Center for the Study of Democratic Institutions Seminar
+	• Vanderbilt Center for the Study of Democratic Institutions Seminar
 
-• American Political Science Association
+	• American Political Science Association
 
 • 2013
 
-• American Political Science Association
+	• American Political Science Association
 
-• Yale American Politics Conference
+	• Yale American Politics Conference
 
-• University of Michigan/AAAPSS Conference on the Great Recession
+	• University of Michigan/AAAPSS Conference on the Great Recession
 
-• Midwestern Political Science Association
+	• Midwestern Political Science Association
 
 • 2012
 
-• Society for Political Methodology
+	• Society for Political Methodology
 
-• Midwestern Political Science Association
+	• Midwestern Political Science Association
 
-• NYU Experimental Political Science Conference
+	• NYU Experimental Political Science Conference
 
-• MIT Political Economy Breakfast
+	• MIT Political Economy Breakfast
 
 • 2011
 
-• Society for Political Methodology
+	• Society for Political Methodology
 
-• Midwestern Political Science Association
+	• Midwestern Political Science Association
 
 Professional Service
 ======
