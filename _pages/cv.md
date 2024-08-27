@@ -273,6 +273,9 @@ Conference and Seminar Presentations
 
 Professional Service
 ======
+
+Co-organizer, Local Political Economy APSA Pre-Conference, 2024
+
 Editorial board member, Political Behavior, 2023-
 
 Section head, “Representation and Electoral Systems,” 2024 Midwestern Political Science Association Annual Meeting
