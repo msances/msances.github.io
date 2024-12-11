@@ -6,7 +6,7 @@ collection: publications
 forthcoming: 'yes'
 volume: Accepted
 venue: 'State Politics & Policy Quarterly'
-paperurl: 'https://www.dropbox.com/scl/fi/iid8bq816ygzg5oyxi78k/police-responsiveness-june.pdf?rlkey=9izs7qybiffdiikhj6cptx6ku&st=ltx4l0ga&dl=1'
+paperurl: 'https://www.dropbox.com/scl/fi/mr086ql0ptlfg1ocg25j3/police-responsiveness-sppq-accepted.pdf?rlkey=7ytwllhz83yvfait1tn9rx8j1&st=mkruqnlc&dl=1'
 citation: 'Sances, Michael W. 2024. &quot;The Politics of Police Reform in the States.&quot; Working Paper, Temple University Department of Political Science'
 ---
 
