@@ -2,6 +2,7 @@
 title: "The Politics of Police Reform in the States"
 status: workingpaper
 date: 2024-12-11
+collection: publications
 forthcoming: 'yes'
 volume: Accepted
 venue: 'State Politics & Policy Quarterly'
