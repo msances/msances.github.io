@@ -1,4 +1,5 @@
 ---
+number: 31
 title: "The Politics of Police Reform in the States"
 date: 2024-12-11
 collection: publications
